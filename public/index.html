@@ -1,0 +1,72 @@
+<!DOCTYPE html><html><head><meta charSet="utf-8"/><meta http-equiv="x-ua-compatible" content="ie=edge"/><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/><meta name="note" content="environment=development"/><title data-react-helmet="true"></title><style type="text/css">.gatsby-resp-image-image{width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;color:transparent;}</style><style type="text/css">
+    .auto-link {
+      float: left;
+      padding-right: 4px;
+      margin-left: -20px;
+    }
+    h1 .auto-link svg,
+    h2 .auto-link svg,
+    h3 .auto-link svg,
+    h4 .auto-link svg,
+    h5 .auto-link svg,
+    h6 .auto-link svg {
+      visibility: hidden;
+    }
+    h1:hover .auto-link svg,
+    h2:hover .auto-link svg,
+    h3:hover .auto-link svg,
+    h4:hover .auto-link svg,
+    h5:hover .auto-link svg,
+    h6:hover .auto-link svg,
+    h1 .auto-link:focus svg,
+    h2 .auto-link:focus svg,
+    h3 .auto-link:focus svg,
+    h4 .auto-link:focus svg,
+    h5 .auto-link:focus svg,
+    h6 .auto-link:focus svg {
+      visibility: visible;
+    }
+  </style><script>
+    document.addEventListener("DOMContentLoaded", function(event) {
+      var hash = window.decodeURI(location.hash.replace('#', ''))
+      if (hash !== '') {
+        var element = document.getElementById(hash)
+        if (element) {
+          var offset = element.offsetTop
+          // Wait for the browser to finish rendering before scrolling.
+          setTimeout((function() {
+            window.scrollTo(0, offset - 0)
+          }), 0)
+        }
+      }
+    })
+  </script><link rel="icon" href="/favicons/logo-192x192.png?v=9dd0a7b2ca7533186d36cb348fe735c8"/><link rel="manifest" href="/manifest.webmanifest"/><meta name="theme-color" content="#282c35"/><link rel="apple-touch-icon" sizes="192x192" href="/favicons/logo-192x192.png?v=9dd0a7b2ca7533186d36cb348fe735c8"/><link rel="apple-touch-icon" sizes="512x512" href="/favicons/logo-512x512.png?v=9dd0a7b2ca7533186d36cb348fe735c8"/><link rel="sitemap" type="application/xml" href="/sitemap.xml"/><link rel="alternate" type="application/rss+xml" title="Chiyo-ComicBookReviews" href="/https://chiyo-comicbookreviews.netlify.app/rss.xml"/><script src="/socket.io/socket.io.js"></script></head><body><script>
+          (() => {    
+            window.__onThemeChange = function() {};                
+            function setTheme(newTheme) {                  
+              window.__theme = newTheme;                  
+              preferredTheme = newTheme;                  
+              document.body.className = newTheme;                 
+              window.__onThemeChange(newTheme);                
+            }
+
+            let preferredTheme
+            try {
+              preferredTheme = localStorage.getItem('theme')
+            } catch (err) {}
+
+            window.__setPreferredTheme = newTheme => {
+              setTheme(newTheme)
+              try {
+                localStorage.setItem('theme', newTheme)
+              } catch (err) {}
+            }
+
+            let darkQuery = window.matchMedia('(prefers-color-scheme: dark)')
+            darkQuery.addListener(e => {
+              window.__setPreferredTheme(e.matches ? 'light' : 'dark')
+            })
+
+            setTheme(preferredTheme || (darkQuery.matches ? 'light' : 'dark'))
+          })()
+        </script><div id="___gatsby"></div><script src="/commons.js"></script></body></html>
