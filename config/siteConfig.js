@@ -7,7 +7,7 @@ const config = {
   siteDescription: 'A blog ComicBookReviews and AnimeReviews.', // Website description used for RSS feeds/meta description tag.
   siteLogo: 'static/favicons/favicon.ico', // Logo used for manifest.
   siteUrl: 'https://chiyo-comicbookreviews.netlify.app', // Domain of your website without pathPrefix.
-  pathPrefix: '/ReviwsSite', // Prefixes all links. For cases when deployed to example.github.io/gatsby-material-starter/.
+  pathPrefix: '/', // Prefixes all links. For cases when deployed to example.github.io/gatsby-material-starter/.
   siteRss: 'https://chiyo-comicbookreviews.netlify.app/rss.xml', // Path to the RSS file.
   siteFBAppID: '', // FB Application ID for using app insights
   siteGATrackingID: '265502661', // Tracking code ID for google analytics.
