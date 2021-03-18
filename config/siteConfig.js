@@ -10,7 +10,7 @@ const config = {
   pathPrefix: '/', // Prefixes all links. For cases when deployed to example.github.io/gatsby-material-starter/.
   siteRss: 'https://chiyo-comicbookreviews.netlify.app/rss.xml', // Path to the RSS file.
   siteFBAppID: '', // FB Application ID for using app insights
-  siteGATrackingID: '265502661', // Tracking code ID for google analytics.
+  siteGATrackingID: 'UA-192108696-1', // Tracking code ID for google analytics.
   disqusShortname: 'chiyo-comicbookreviews', // Disqus shortname.
   twitterUserName: 'Chiyo20191', // twitter creator for SEO
   datePublished: '2021-03-17', // for SEO
