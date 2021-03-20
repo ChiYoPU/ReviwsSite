@@ -1,66 +1,52 @@
 ---
-title: "Test Pagination 4"
-date: "2018-11-09"
-category: "FrontEnd"
-cover: "/images/4.webp"
+title: "\U0001F6ACACCA13区監察課を紹介したい\U0001F36B"
+date: 2021-03-19T15:00:00.000Z
+cover: /images/img_0282.jpg
+category: Comic
 tags:
-  - test
+  - 群像劇
 ---
+### 【作者】
+オノ・ナツメ　先生
 
-# Quanto et ius coniunctis urbes
+### 【ジャンル】
+*群像劇*
 
-## Sedisti civiliter
+### 【あらすじ・紹介】
+> かつて、12の地区による一斉クーデターが起こり、各地区ごとによる自治が認められた経緯があるドーワー王国は、現在13の自治区から構成されている。  
+> クーデター後、警察、消防、医療機関などを傘下に置く国家行政機関・ACCA（アッカ）が設立され、その監察課は各自治区のACCA支部の業務が適正に遂行されているかを監視していた。  
+> "もらいタバコのジーン"の異名を持つ監察課の副課長ジーン・オータスが、いつものように首都・バードン市のACCA本部に出勤すると、ACCA5長官会議で「監察課の廃止」が決定していた。突然の決定に困惑する本部局員たちを後にして、視察へ出発したジーンは、ACCA支部の巡査による不正と、ACCA本部監察課員の隠蔽を見抜き摘発する。監察課の不祥事で組織解体に拍車がかかると思われたが、不正を見抜いたのも監察課であるため、その重要性が再認識され監察課の存続が決まった。  
+> 監察課廃止を強く主張してきたグロッシュラー長官は、この件でなぜか存続派に転じる。  
+グロッシュラーはジーンにとある疑いを抱き、内務調査課に密かにジーンの調査を命じる。  
+> 調査を行うのは、内務調査課の覆面局員「クロウ」こと、学生時代からのジーンの親友ニーノであった。
 
-Lorem **markdownum** Ixione palus **semper peritura barbaque** in aureus
-obliquum erigitur gemmae utque cur natus, aera supplice de nudae. Manus
-ambrosiam tendens, saecula tenet, conponere et ense et cucurri. Tantique
-animalia praeceps Meleagre greges venisse corpore et ignara, umquam ipse? Quam
-_Talibus ausis_.
+[ACCA13区監察課_Wikipedia](https://ja.wikipedia.org/wiki/ACCA13区監察課)
 
-## Vultusque subsequitur Pallas regis datis inde animaque
+### 【ACCA13区監察課の凄さ】
+とにかく出てくる食べ物が美味しそう😋  
+焼きたての食パンの美味しさとか、お菓子の甘い香りが伝わってくる  
+13区それぞれに気候と文化に特徴があるお陰で、出てくる食べ物が本当に豊か  
+個人的にはジュモーク区のアホみたいにおっきいイチゴを食べてみたい🍓  
+あと王都にあるスイーツもいっぱい食べたい🥰
 
-At securim cautum capitis, creatos sanguinis turbant iam concita videor, edere.
-Alis genas rudis felix quas **longum** suorum manu ante prima **usque**. Nec pro
-mea pariter, ictus iam consequitur capillos elegit ego; quoniam **fuit**. Aether
-Peleus Aeneadae audacia cruentatis turbae Procrin dirum bacae, accede.
+ストーリーも本当に面白い  
+キャラ同士の会話の中で物語が進んでいく所が、臨場感とスリルがあって楽しい  
+はっきりとは分からないけど色々な思惑が交錯している緊張感があって、そこをジーン（主人公）は掴み所なくすり抜けていくからハラハラする👀
 
-```php
-    urlLinkedin.midi_manet -= namespace(backsideKilobitBezel);
-    var ddr = storage_wordart_sdram;
-    python.raw_backlink = rfid_load - 4;
-    kibibyte *= cdnThumbnailUri;
-```
+この緊張感のお陰で、妹が美味しそうに食べているシーンが凄い癒しになる
 
-## Fortis dextrae humo limina Tempus singultibus illa
+### 【お気に入りのシーン】
+ニーノ親子の回想が本当に美しい☺️  
+アニメから入ったけど、このシーンをマンガでも読みたくてマンガ買ったと言っても過言ではない  
+穏やかで暖かくて愛があって、ニーノは今までどんな気持ちだったんだろうって考えるのが止まらない  
+あんまり書くとネタバレになっちゃうけど、父親から仕事を引き継ぐシーンも最高だった  
+言葉にできないニーノの気持ちが伝わってきて悲しくなる
 
-Nate muros orbe [patris](http://debebuntilla.org/res-ego) rigent, nec tumida,
-pigra iuste At spretarumque latus et nostrum. Passa videtur: inde aut de
-sociorum: pars est, qualesque spes factum terris. Custodia sum animumque; iubet
-in pulvere carus, relinquunt incitat. Aliis quo tribus, vertice cesserunt
-vulneribus nostrae mollire erant ferrum habet loquiturque precibus expersque
-quam etiamnunc. Puraque [repetitque](http://mihi-aiax.io/suaferunt.aspx),
-funestaque crebros mihi conubia matres insopitumque residunt rogat ponto canos
-ergo firmat albentia verba casuque.
+### 【好きなキャラ】
+ジーン🚬とニーノ🍫が好き  
+ジーンはいい加減そうだけど、家族と親友思いな所が好き  
+意外と人をよく見ていて、気持ちに寄り添いながら判断できる素敵な上司
 
-```perl
-    if (lion_vdu + vrml_upnp - redundancyAccessPharming) {
-        driveProcessor = floatingWord(commerceDockRestore(database));
-    } else {
-        partition_source_thunderbolt = -2 + tokenStateArchive /
-                teraflops_gigahertz;
-    }
-    exabytePhpMacintosh -= graphic_cycle(expression, memory(ideFatMatrix,
-            controlInboxMode), 50) + -3;
-    buffer_apple_hdmi += viralSync + internetDigital / tweak_perl_expansion(
-            masterNullFloating + vdu, software_play);
-```
-
-## Nati expugnacior nympha milia nascuntur amico
-
-Multis timidus hic si auctor hausit. Suos taedasque, malis est nitente sceleri
-sunt florem.
-
-Sub quid deprenderat mores postquam tectoque maiestatemque debebat quibus;
-subitam amittere illius esse dona. Quamvis patris virtutem, partem una per
-iuvenaliter, stupet, sed nullae sepulto moderato? Nec phaedimus aequoris dixit.
-Hic bis parenti: e petunt satis.
+ニーノは飄々としている感じだけど、ふとした時に寂しそうな雰囲気になるのが最高  
+オータス兄妹のことを本当に大切に思っていて、そこがストーリーを暖かくしてくれる  
+オータス兄弟と美味しいご飯いっぱい食べて欲しい🙏🏻
