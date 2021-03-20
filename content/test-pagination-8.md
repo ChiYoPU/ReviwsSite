@@ -1,66 +1,44 @@
 ---
-title: "Test Pagination 8"
-date: "2018-11-09"
-category: "FrontEnd"
-cover: "/images/8.webp"
+title: "\U0001F432ジャバウォッキーを紹介したい\U0001F377"
+date: 2021-03-19T15:00:00.000Z
+cover: /images/img_0287.jpg
+category: Comic
 tags:
-  - test
+  - アドベンチャー
 ---
+### 【作者】
+久正人　先生
 
-# Quanto et ius coniunctis urbes
+### 【ジャンル】
+*アクション、アドベンチャー、スパイ*
 
-## Sedisti civiliter
+### 【あらすじ・紹介】
+> 恐竜は絶滅していなかった。  
+白亜紀末期の大絶滅を生き残り、直立二足歩行に進化した恐竜達は、独自の技術と能力によって歴史の裏舞台に暗躍していた。  
+元英国情報部のリリー・アプリコットは、任務の途中出会ったオヴィラプトルのサバタにスカウトされ、結社「イフの城」のメンバーとなる。  
+イフの城の目的は「明日を救う」こと。  
+> 19世紀末の世界各地を舞台に、リリーとサバタのコンビが恐竜絡みの事件に臨む。
 
-Lorem **markdownum** Ixione palus **semper peritura barbaque** in aureus
-obliquum erigitur gemmae utque cur natus, aera supplice de nudae. Manus
-ambrosiam tendens, saecula tenet, conponere et ense et cucurri. Tantique
-animalia praeceps Meleagre greges venisse corpore et ignara, umquam ipse? Quam
-_Talibus ausis_.
+[ジャバウォッキー_Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%90%E3%82%A6%E3%82%A9%E3%83%83%E3%82%AD%E3%83%BC_%28%E6%BC%AB%E7%94%BB%29)
 
-## Vultusque subsequitur Pallas regis datis inde animaque
+### 【ジャバウォッキーの凄さ】
+設定が凄い！！  
+恐竜が絶滅していなくて人間社会の裏で暗躍しているとか面白すぎる  
+歴史的な出来事の裏側とか、偉人に恐竜が絡んでいて最高にロマンがあると思う  
+あんまり書くとネタバレになるのが辛い😫
 
-At securim cautum capitis, creatos sanguinis turbant iam concita videor, edere.
-Alis genas rudis felix quas **longum** suorum manu ante prima **usque**. Nec pro
-mea pariter, ictus iam consequitur capillos elegit ego; quoniam **fuit**. Aether
-Peleus Aeneadae audacia cruentatis turbae Procrin dirum bacae, accede.
+テンポも良くて、色んな事件を恐竜×美女コンビがバシッと解決していくのが超楽しい🙌🏻  
+絶対にアニメ映えする
+アニメになってくれたら嬉し過ぎて死ぬ
 
-```php
-    urlLinkedin.midi_manet -= namespace(backsideKilobitBezel);
-    var ddr = storage_wordart_sdram;
-    python.raw_backlink = rfid_load - 4;
-    kibibyte *= cdnThumbnailUri;
-```
+### 【お気に入りのシーン】
+サバタ・リリーコンビ初任務？の話が好き  
+最初はうまく行ってないけど、衝突しながら絆が深まるのが最高  
+このコンビしか勝たん💪🏻ってなる  
+リリーのために超真剣に熱く怒るサバタが最高にかっこいい
 
-## Fortis dextrae humo limina Tempus singultibus illa
-
-Nate muros orbe [patris](http://debebuntilla.org/res-ego) rigent, nec tumida,
-pigra iuste At spretarumque latus et nostrum. Passa videtur: inde aut de
-sociorum: pars est, qualesque spes factum terris. Custodia sum animumque; iubet
-in pulvere carus, relinquunt incitat. Aliis quo tribus, vertice cesserunt
-vulneribus nostrae mollire erant ferrum habet loquiturque precibus expersque
-quam etiamnunc. Puraque [repetitque](http://mihi-aiax.io/suaferunt.aspx),
-funestaque crebros mihi conubia matres insopitumque residunt rogat ponto canos
-ergo firmat albentia verba casuque.
-
-```perl
-    if (lion_vdu + vrml_upnp - redundancyAccessPharming) {
-        driveProcessor = floatingWord(commerceDockRestore(database));
-    } else {
-        partition_source_thunderbolt = -2 + tokenStateArchive /
-                teraflops_gigahertz;
-    }
-    exabytePhpMacintosh -= graphic_cycle(expression, memory(ideFatMatrix,
-            controlInboxMode), 50) + -3;
-    buffer_apple_hdmi += viralSync + internetDigital / tweak_perl_expansion(
-            masterNullFloating + vdu, software_play);
-```
-
-## Nati expugnacior nympha milia nascuntur amico
-
-Multis timidus hic si auctor hausit. Suos taedasque, malis est nitente sceleri
-sunt florem.
-
-Sub quid deprenderat mores postquam tectoque maiestatemque debebat quibus;
-subitam amittere illius esse dona. Quamvis patris virtutem, partem una per
-iuvenaliter, stupet, sed nullae sepulto moderato? Nec phaedimus aequoris dixit.
-Hic bis parenti: e petunt satis.
+### 【好きなキャラ】
+リリーがめっちゃ良いキャラしてる🍷  
+かわいくて強い！！  
+不遇な境遇の中でも懸命に生きててまぶしい、幸せになって欲しい  
+表情豊かなのもかわいい
