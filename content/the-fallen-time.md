@@ -1,82 +1,61 @@
 ---
-title: "The Fallen Time"
-cover: "/images/7.webp"
-date: "2017-02-01"
-category: "another one"
+title: "\U0001F9D9\U0001F3FB‍♂️ドロヘドロを紹介したい\U0001F98E　"
+date: 2021-03-19T15:00:00.000Z
+cover: /images/3.webp
+category: Comic
 tags:
-  - test
+  - ダークファンタジー
 ---
+### 【作者】
+村田球　先生
 
-# Autolyci eminus retenta
+### 【ジャンル】
+*ダークファンタジー、スプラッター・ホラー、バイオレンスアクション、ドロヘドロ*
 
-## Hoc domum solitos veteremque nostrum
+### 【あらすじ・紹介】
+> 「魔法使いの世界」から来た魔法使いによって、頭を爬虫類に変えられ、記憶を失った男、カイマン。そしてその友人、ニカイドウ。カイマンの口の中には謎の男が存在している。  
+カイマンは自分の頭を元に戻すために、そして記憶を取り戻すためにニカイドウと共に「ホール」にやって来る魔法使いを狩っていく。  
+彼は何者なのか、なぜ記憶がないのか、口の中の男は誰なのか。  
+> __それはまだ……混沌の中。それが……ドロヘドロ!__
 
-Lorem markdownum huc suo ara, dubites celeri mihi bicolor. Secuti non? Suo opus
-quales dant, puppim hanc!
+[ドロヘドロ_Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%AD%E3%83%98%E3%83%89%E3%83%AD)
 
-```js
-enterprise /= mp_operating_quad;
-dsl_runtime.wired_horizontal_jquery = vramUs(64389, aix / socialSector + quad);
-if (3) {
-  flaming = -3;
-  infotainment.horseThreadColumn(copySnippet, 5, day);
-} else {
-  num_network_cpa = firewireAluExbibyte + denial_virtual_logic + program;
-}
-scanner(1, ram_wddm(map, reader + 3, ole_install));
-```
+### 【ドロヘドロの凄さ】
+・とにかく何でもあり！  
+・倫理観ゼロ  
+・餃子を食べたくなる🥟
 
-## In nunc
+### 【お気に入りのシーン】
+ドロヘドロはもう最初から最後まで奇想天外な感じだけど、特に特にこの3つがお気に入り  
+__・魔法で人形を作るシーン__  
+人形の作り方が完全にお料理シーンで面白い🍗  
+無駄にフォンドボーとか出てくる  
+料理のバリエーションも色々あって、凝った料理ほど精度が高くなるのも好き
 
-Superinposita dira me Iove, lanigeris tendunt! Illis gladii, in pignusque dixit
-trisulcis latices. Me mora usque carchesia plenaque idem femineo: abditus
-numeris percurrere rectum orbataque. Lucibus nocuisse et nova attactu et secura,
-enim poterentur.
+__・みんなで野球をするシーン⚾️__  
+町内会の野球みたいなノリだけど、もうツッコミどころしか無い  
+何故か魔法使いの処刑場が会場だし、グラウンドには底無し沼があるし、  
+魔法使いの死体を魔改造したフランケンシュタイン🧟が出場してたりもうとにかくめちゃくちゃ  
+そこに特に誰もツッコまずにゲームが進んでいく狂気  
+ドロヘドロのヤバさが全部詰まった回だと思う
 
-Infelix ait eadem. Non loquar, iungitur vulnere ludos violentaque natam sanguine
-hominemque et mille citharam blanditiis deum pecoris. Vibrabant et crimina
-iterum: et nisi victa quietis litore? Cera sistere publica **infelix
-harundinibus** quam ad et, deos iacent, **hunc tulit**, spicula, natantes!
-Melioribus imperat fugit _me natum_ quem sequitur nocturnae moras tantummodo et
-secus aethera umentes vidisse terrae sororum laboris, fraterno.
+__・魔のおまけ__  
+おまけだけどめっちゃ面白いし、日常的な感じで楽しめて好き  
+キャラ同士のくだらないやり取りとりと私生活を知れる
 
-## Perpetiar lacrimas Non dare
+### 【好きなキャラ】
+・毒蛾🦋  
+めちゃ不憫  
+ボスに忠実で超尽くしている強キャラっぽいけど、めちゃ堅実で庶民感が凄い所が推せる
 
-Tibi ducit incursu nomina terrae, feratur satis Telethusa corpore Eurynome in
-semina adiecit! Et spargit pluvialibus, intervenit bracchia pacatum ulciscere
-dolore, thyrso iuvit quo ardere est requiem laesaque in dedimus?
+・カスカベ博士  
+ヤバいマッドサイエンティスト👨🏽‍⚕️  
+マッド過ぎて意味が分からない  
+でも愛妻家で奥さんのことが好きっていうのが随所で出ててギャップが最高  
 
-## Est in sit suos fessa
-
-Est illo Osiris aevo, et **dextrae** quoque et, illa. Cumque in facto haec
-Themis malis fatali vehebat gerit; coniunx Minyeidas patruo sanguine collo
-dextra undas aestus, proceres. Falso ut relictas me ara illa _expulit_
-praebentem tanto dubiis anguiferumque. Fata vidit [suam caede
-mirere](http://nare.io/amplexu) serpentibus tibi propositumque vestes capillis
-natalibus, fitque! Verba Siphnon, arcanaque vicina, Cycnum mox suos coniunx
-ebrius.
-
-```java
-    if (hsf(-3) > artMetalMeme.yottabytePrimary(circuit, 1)) {
-        saas.backbone += netmaskUtf;
-    } else {
-        engineNybble.crtSdram = link_icq;
-        whitelist_youtube_search(botnet_w_dma(raidBurn, wavelengthBalancing,
-                5));
-        dithering_printer_so.file(toggle_right);
-    }
-    modifierDaemonOpen *= video(touchscreen_speed(692730), sound_lion_finder,
-            nanometer_variable + of(ldap, recursion_pop_zebibyte, c));
-    if (popCrossplatformVdsl) {
-        thunderboltMnemonic -= 2 - lte(648733);
-        ddr_spoofing *= metal_commercial + http;
-    } else {
-        leafPowerBar = spoolPower;
-        file_itunes += dataLifo;
-    }
-    binary *= 2;
-```
-
-Unumque extemplo melius in unda claudit artem clausum quos amare; damnum formae,
-fragor erubuere Vesta; pietas. Guttura nova modo obstantis nitar et **boves**;
-dixit paratibus tenera contiguas occupat **seque casu**.
+・藤田  
+本作唯一？の良心  
+超普通、一般の雑魚  
+その普通さがとても良い  
+ちゃんと敵の事情を推し量ってくれるし、仲間を普通に大事にしている  
+ちょっと気弱だけど、ファミリーのために根性見せる普通にいい奴
