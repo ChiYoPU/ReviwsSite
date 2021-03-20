@@ -1,66 +1,47 @@
 ---
-title: "Test Pagination 1"
-date: "2018-11-09"
-category: "FrontEnd"
-cover: "/images/3.webp"
+title: "\U0001F969とんかつDJアゲ太郎を紹介したい\U0001F9FF"
+date: 2021-03-19T15:00:00.000Z
+cover: /images/2.webp
+category: Comic
 tags:
-  - test
+  - DJ&とんかつ
 ---
+### 【作者】
+原作・原案　イーピャオ　先生  
+作画　小山ゆうじろう　先生
 
-# Quanto et ius coniunctis urbes
+### 【ジャンル】
+*ギャグ、音楽（DJ）、料理（とんかつ）*
 
-## Sedisti civiliter
+### 【あらすじ・紹介】
+> 東京・渋谷、その片隅に一軒のとんかつ屋がある。その名も「しぶかつ」。  
+三代目の揚太郎は、父・揚作のもと、なんとなく見習い修業を続ける毎日だった…。  
+> だがある日、とんかつを届けに訪れたクラブで、味わったことのない高揚感をおぼえる。  
+そして伝説のDJとの出会いが、彼を本気にさせた。  
+「とんかつもフロアもアゲられる男になりたい!」  
+> ――――これは、とんかつDJとして踏み出した少年の青春物語である。
 
-Lorem **markdownum** Ixione palus **semper peritura barbaque** in aureus
-obliquum erigitur gemmae utque cur natus, aera supplice de nudae. Manus
-ambrosiam tendens, saecula tenet, conponere et ense et cucurri. Tantique
-animalia praeceps Meleagre greges venisse corpore et ignara, umquam ipse? Quam
-_Talibus ausis_.
+[とんかつDJアゲ太郎_BookLive](https://booklive.jp/product/index/title_id/300204/vol_no/001)
 
-## Vultusque subsequitur Pallas regis datis inde animaque
+### 【とんかつDJアゲ太郎の凄さ】
+絵は緩いけど、中身は超王道のスポ根マンガ💪🏻  
+自堕落なアゲ太郎が、熱中できるものに出会って師匠に鍛えられ、ライバルと切磋琢磨して、最高の仲間と爆進しながらちょっと恋もする🥰
 
-At securim cautum capitis, creatos sanguinis turbant iam concita videor, edere.
-Alis genas rudis felix quas **longum** suorum manu ante prima **usque**. Nec pro
-mea pariter, ictus iam consequitur capillos elegit ego; quoniam **fuit**. Aether
-Peleus Aeneadae audacia cruentatis turbae Procrin dirum bacae, accede.
+アゲ太郎がどんどんDJととんかつアゲるの上手くなっていくのが楽しい  
+ちゃんと壁にぶつかって、仲間と助け合ったり努力して成長する  
+その成果をステージとかイベントで披露していくんだけど、本人もお客さんもめっちゃ良い顔してて  
+読んでてこっちまで笑顔になれる😄
 
-```php
-    urlLinkedin.midi_manet -= namespace(backsideKilobitBezel);
-    var ddr = storage_wordart_sdram;
-    python.raw_backlink = rfid_load - 4;
-    kibibyte *= cdnThumbnailUri;
-```
+とにかくとんかつが超美味しそうで、読んでると作って食べたくなる🐷  
+とんかつ作りたくなる所がアゲ太郎の凄いとこ
 
-## Fortis dextrae humo limina Tempus singultibus illa
+### 【お気に入りのシーン】
+とんかつDJのテーマを披露した時が最高にアガった🤟🏻  
+最高の仲間と集大成、盛り上がらないはずが無い  
+自然と頭の中で音楽が流れるから不思議  
+師匠もめっちゃ良い顔して見守ってて、師弟愛が良い
 
-Nate muros orbe [patris](http://debebuntilla.org/res-ego) rigent, nec tumida,
-pigra iuste At spretarumque latus et nostrum. Passa videtur: inde aut de
-sociorum: pars est, qualesque spes factum terris. Custodia sum animumque; iubet
-in pulvere carus, relinquunt incitat. Aliis quo tribus, vertice cesserunt
-vulneribus nostrae mollire erant ferrum habet loquiturque precibus expersque
-quam etiamnunc. Puraque [repetitque](http://mihi-aiax.io/suaferunt.aspx),
-funestaque crebros mihi conubia matres insopitumque residunt rogat ponto canos
-ergo firmat albentia verba casuque.
-
-```perl
-    if (lion_vdu + vrml_upnp - redundancyAccessPharming) {
-        driveProcessor = floatingWord(commerceDockRestore(database));
-    } else {
-        partition_source_thunderbolt = -2 + tokenStateArchive /
-                teraflops_gigahertz;
-    }
-    exabytePhpMacintosh -= graphic_cycle(expression, memory(ideFatMatrix,
-            controlInboxMode), 50) + -3;
-    buffer_apple_hdmi += viralSync + internetDigital / tweak_perl_expansion(
-            masterNullFloating + vdu, software_play);
-```
-
-## Nati expugnacior nympha milia nascuntur amico
-
-Multis timidus hic si auctor hausit. Suos taedasque, malis est nitente sceleri
-sunt florem.
-
-Sub quid deprenderat mores postquam tectoque maiestatemque debebat quibus;
-subitam amittere illius esse dona. Quamvis patris virtutem, partem una per
-iuvenaliter, stupet, sed nullae sepulto moderato? Nec phaedimus aequoris dixit.
-Hic bis parenti: e petunt satis.
+### 【好きなキャラ】
+やっぱりアゲ太郎が一番好き  
+最初はダメなやつだったけど、DJに目覚めてからはアツい男に生まれ変わる笑  
+ライバルの凄さを認めて、自分に何が足りないのか考えて努力できる所が素敵👍🏻
