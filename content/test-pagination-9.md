@@ -1,66 +1,50 @@
 ---
-title: "Test Pagination 9"
-date: "2018-11-09"
-category: "FrontEnd"
-cover: "/images/1.webp"
+title: "\U0001F484Veilを紹介したい\U0001F6AC"
+date: 2021-03-20T03:00:00.000Z
+cover: /images/8.webp
+category: Comic
 tags:
-  - test
+  - イラスト集・コミック
 ---
+### 【作者】
+コテリ　先生
 
-# Quanto et ius coniunctis urbes
+### 【ジャンル】
+*女性漫画、イラスト集・コミック*
 
-## Sedisti civiliter
+### 【あらすじ・紹介】
+> まるで美しいシネマのようなコミック＆イラスト集！  
+警察官の“彼”は、勤務中に街で“彼女”に偶然出会った。  
+杖をついて歩く“彼女”は、遠い街のお屋敷育ちの家出令嬢だった。  
+仕事を探しているという“彼女”を、“彼”は警察署の電話番として迎えることに…。
 
-Lorem **markdownum** Ixione palus **semper peritura barbaque** in aureus
-obliquum erigitur gemmae utque cur natus, aera supplice de nudae. Manus
-ambrosiam tendens, saecula tenet, conponere et ense et cucurri. Tantique
-animalia praeceps Meleagre greges venisse corpore et ignara, umquam ipse? Quam
-_Talibus ausis_.
+> そこから始まった“彼”と“彼女”の日常と、微妙な距離感を、  
+大人気イラストレーター・コテリが大胆かつ繊細な筆致と  
+小粋なセリフまわしでスタイリッシュに描くオールカラーのコミック＆イラスト集。
 
-## Vultusque subsequitur Pallas regis datis inde animaque
+> Twitterやコミティアで話題をさらった「Veil」に
+多くの描き下ろし漫画とイラストを加えて再編集した第1巻。  
+古き良き時代のヨーロッパ映画を観ているような気分になる、  
+異国の雰囲気たっぷりで、お洒落でロマンチックな作品です。  
+「あなたはミステリアスだ。そして、どうも危なっかしい。だから……目が離せない」
 
-At securim cautum capitis, creatos sanguinis turbant iam concita videor, edere.
-Alis genas rudis felix quas **longum** suorum manu ante prima **usque**. Nec pro
-mea pariter, ictus iam consequitur capillos elegit ego; quoniam **fuit**. Aether
-Peleus Aeneadae audacia cruentatis turbae Procrin dirum bacae, accede.
+[Veil_コミックシーモア](https://www.cmoa.jp/title/187086/)
 
-```php
-    urlLinkedin.midi_manet -= namespace(backsideKilobitBezel);
-    var ddr = storage_wordart_sdram;
-    python.raw_backlink = rfid_load - 4;
-    kibibyte *= cdnThumbnailUri;
-```
+### 【Veilの凄さ】
+もう本当にどのページも超絶オシャレ  
+全部ホーム画にしたい  
+色と線が最高に繊細で綺麗で大胆で惚れ惚れする  
+あと言葉選びも素敵！！
 
-## Fortis dextrae humo limina Tempus singultibus illa
+彼と彼女の掛け合いも最高！  
+二人の関係に明確な名前は無いから、絶妙な距離感にとても引き込まれる  
+お互い心の中の大事な場所で思い合っているっていうのが、セリフと雰囲気で伝わってきてドキッとする
 
-Nate muros orbe [patris](http://debebuntilla.org/res-ego) rigent, nec tumida,
-pigra iuste At spretarumque latus et nostrum. Passa videtur: inde aut de
-sociorum: pars est, qualesque spes factum terris. Custodia sum animumque; iubet
-in pulvere carus, relinquunt incitat. Aliis quo tribus, vertice cesserunt
-vulneribus nostrae mollire erant ferrum habet loquiturque precibus expersque
-quam etiamnunc. Puraque [repetitque](http://mihi-aiax.io/suaferunt.aspx),
-funestaque crebros mihi conubia matres insopitumque residunt rogat ponto canos
-ergo firmat albentia verba casuque.
+### 【お気に入りのシーン】
+モデルを勧められる話しが好き🥰  
+彼女のことを思ってモデルを勧めるけど、遠い人になりそうで複雑な彼と  
+そんな彼の気持ちを汲み取って側にいて欲しいって言う彼女との間に漂う空気感が甘くて良い  
+彼がどんな気持ちと表情で彼女に接しているのか、想像するだけで楽しい😌
 
-```perl
-    if (lion_vdu + vrml_upnp - redundancyAccessPharming) {
-        driveProcessor = floatingWord(commerceDockRestore(database));
-    } else {
-        partition_source_thunderbolt = -2 + tokenStateArchive /
-                teraflops_gigahertz;
-    }
-    exabytePhpMacintosh -= graphic_cycle(expression, memory(ideFatMatrix,
-            controlInboxMode), 50) + -3;
-    buffer_apple_hdmi += viralSync + internetDigital / tweak_perl_expansion(
-            masterNullFloating + vdu, software_play);
-```
-
-## Nati expugnacior nympha milia nascuntur amico
-
-Multis timidus hic si auctor hausit. Suos taedasque, malis est nitente sceleri
-sunt florem.
-
-Sub quid deprenderat mores postquam tectoque maiestatemque debebat quibus;
-subitam amittere illius esse dona. Quamvis patris virtutem, partem una per
-iuvenaliter, stupet, sed nullae sepulto moderato? Nec phaedimus aequoris dixit.
-Hic bis parenti: e petunt satis.
+### 【好きなキャラ】
+彼と彼女はもちろん好きだけど、彼のお姉さんが気になる👀
