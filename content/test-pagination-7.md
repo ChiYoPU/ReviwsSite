@@ -1,66 +1,38 @@
 ---
-title: "Test Pagination 7"
-date: "2018-11-09"
-category: "FrontEnd"
-cover: "/images/7.webp"
+title: "\U0001F47DレベルEを紹介したい\U0001FA90"
+date: 2021-03-19T15:00:00.000Z
+cover: /images/1.webp
+category: Comic
 tags:
-  - test
+  - SF
 ---
+### 【作者】
+富樫義博　先生
 
-# Quanto et ius coniunctis urbes
+### 【ジャンル】
+*SF、少年漫画*
 
-## Sedisti civiliter
+### 【あらすじ・紹介】
+>__バカ王子・地球襲来編__  
+>  高校進学に伴って、山形で一人暮らしを始めることになった筒井雪隆は、引っ越したその日に自分より先に自分の部屋で勝手に生活している自称宇宙人の男に出会う。  
+追い出そうとする雪隆だが、男に言いくるめられ、結局彼を同居させた上、宇宙人であることも認めざるを得なくなってしまう。  
+落ち着く間もなく雪隆の周りには、男をめぐって人間の宇宙人研究機関員、宇宙からやって来た男を王子と呼ぶ護衛達、さらには山形周辺を縄張りとする好戦的な宇宙戦闘民族ディスクン星人まで動き出し、風雲急を告げ始める。  
+しかし、雪隆達の不安をよそに、当の本人は全く緊迫感無く悠々とショッピングを楽しんでいた。
 
-Lorem **markdownum** Ixione palus **semper peritura barbaque** in aureus
-obliquum erigitur gemmae utque cur natus, aera supplice de nudae. Manus
-ambrosiam tendens, saecula tenet, conponere et ense et cucurri. Tantique
-animalia praeceps Meleagre greges venisse corpore et ignara, umquam ipse? Quam
-_Talibus ausis_.
+[レベルE_Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%99%E3%83%ABE)
 
-## Vultusque subsequitur Pallas regis datis inde animaque
+### 【レベルEの凄さ】
+ユーモアと不気味さの調和が凄い  
+ただ地球外生命体がいます！ってだけじゃなくて、どういう生態と文化とか個性を持った宇宙人がいて、  
+それが地球にどう入り込んでいるのかって言うのがめっちゃ細かく書いてあって最高😆  
+その細かさでストーリーがリアルに感じられる
 
-At securim cautum capitis, creatos sanguinis turbant iam concita videor, edere.
-Alis genas rudis felix quas **longum** suorum manu ante prima **usque**. Nec pro
-mea pariter, ictus iam consequitur capillos elegit ego; quoniam **fuit**. Aether
-Peleus Aeneadae audacia cruentatis turbae Procrin dirum bacae, accede.
+### 【お気に入りのシーン】
+結婚の話が一番好き  
+そこにもう伏線あったの！？ってなるし、頭脳戦繰り広がって最後のオチまでが超楽しい  
+でもどの話もほんとに面白いしあっという間に読み終わる
 
-```php
-    urlLinkedin.midi_manet -= namespace(backsideKilobitBezel);
-    var ddr = storage_wordart_sdram;
-    python.raw_backlink = rfid_load - 4;
-    kibibyte *= cdnThumbnailUri;
-```
-
-## Fortis dextrae humo limina Tempus singultibus illa
-
-Nate muros orbe [patris](http://debebuntilla.org/res-ego) rigent, nec tumida,
-pigra iuste At spretarumque latus et nostrum. Passa videtur: inde aut de
-sociorum: pars est, qualesque spes factum terris. Custodia sum animumque; iubet
-in pulvere carus, relinquunt incitat. Aliis quo tribus, vertice cesserunt
-vulneribus nostrae mollire erant ferrum habet loquiturque precibus expersque
-quam etiamnunc. Puraque [repetitque](http://mihi-aiax.io/suaferunt.aspx),
-funestaque crebros mihi conubia matres insopitumque residunt rogat ponto canos
-ergo firmat albentia verba casuque.
-
-```perl
-    if (lion_vdu + vrml_upnp - redundancyAccessPharming) {
-        driveProcessor = floatingWord(commerceDockRestore(database));
-    } else {
-        partition_source_thunderbolt = -2 + tokenStateArchive /
-                teraflops_gigahertz;
-    }
-    exabytePhpMacintosh -= graphic_cycle(expression, memory(ideFatMatrix,
-            controlInboxMode), 50) + -3;
-    buffer_apple_hdmi += viralSync + internetDigital / tweak_perl_expansion(
-            masterNullFloating + vdu, software_play);
-```
-
-## Nati expugnacior nympha milia nascuntur amico
-
-Multis timidus hic si auctor hausit. Suos taedasque, malis est nitente sceleri
-sunt florem.
-
-Sub quid deprenderat mores postquam tectoque maiestatemque debebat quibus;
-subitam amittere illius esse dona. Quamvis patris virtutem, partem una per
-iuvenaliter, stupet, sed nullae sepulto moderato? Nec phaedimus aequoris dixit.
-Hic bis parenti: e petunt satis.
+### 【好きなキャラ】
+クラフト隊長が良いキャラしてる👍🏻  
+毎回バカ王子に振り回されまくってキレてる時が最高に面白い😂  
+なんだかんだ真面目さと正義感で仕事はやるからマジで胃を痛めてそう
